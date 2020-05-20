@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Lenovo\Desktop\Amazons\main.cpp(506): warning C4715: “searchstep”: 不是所有的控件路径都返回值
+  Amazons.vcxproj -> C:\Users\Lenovo\Desktop\Amazons\Debug\Amazons.exe
